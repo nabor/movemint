@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "electron": "registry:env/electron#0.37.6+20160416165306",
+    "node": "registry:env/node#4.0.0+20160507210304",
+    "pixi.js": "registry:dt/pixi.js#3.0.9+20160404013751",
+    "react": "registry:dt/react#0.14.0+20160423065914",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040"
+  }
+}

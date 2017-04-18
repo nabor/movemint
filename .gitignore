@@ -1,0 +1,6 @@
+typings
+node_modules
+npm-debug.log
+public/*
+!public/.gitkeep
+Thumbs.db
